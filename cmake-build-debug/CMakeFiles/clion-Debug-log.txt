@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\Toolbox\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/Toolbox/apps/CLion/ch-0/232.9559.58/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\Delta Stuff\C++ Study\MathTeamEventAssignment" -B "D:\Delta Stuff\C++ Study\MathTeamEventAssignment\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Delta Stuff/C++ Study/MathTeamEventAssignment/cmake-build-debug

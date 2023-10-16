@@ -1,0 +1,11 @@
+# ninja log v5
+1096	1816	7041719373736617	MathTeamEventer.exe	b872c9dc0b839c1c
+0	8	0	clean	90f9c87c3cf20f8
+0	1324	7191847342654245	CMakeFiles/MathTeamEventer.dir/main.cpp.obj	9909653f045a5e6b
+1324	1870	7191847347521556	MathTeamEventer.exe	d0813f713eec26af
+1	1051	7191848899958484	CMakeFiles/MathTeamEventer.dir/main.cpp.obj	9909653f045a5e6b
+1052	1326	7191848901928423	MathTeamEventer.exe	d0813f713eec26af
+0	1039	7191851307636902	CMakeFiles/MathTeamEventer.dir/main.cpp.obj	9909653f045a5e6b
+1039	1451	7191851310879573	MathTeamEventer.exe	d0813f713eec26af
+1	1009	7191854999717669	CMakeFiles/MathTeamEventer.dir/main.cpp.obj	9909653f045a5e6b
+1010	1379	7191855002167646	MathTeamEventer.exe	d0813f713eec26af

@@ -1,0 +1,3 @@
+D:/Delta Stuff/C++ Study/MathTeamEventAssignment/cmake-build-debug/CMakeFiles/MathTeamEventer.dir
+D:/Delta Stuff/C++ Study/MathTeamEventAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Delta Stuff/C++ Study/MathTeamEventAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
